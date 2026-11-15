@@ -2,9 +2,11 @@
 
 **Backend Engineer | Cloud & Distributed Systems | AI & Agentic Systems**
 
-I’m a backend-focused software engineer with experience building APIs, distributed systems, and cloud infrastructure.
+I'm a Senior Backend Engineer with 10+ years of experience building scalable, secure and reliable software systems.
 
-These days, I'm particularly interested in the intersection of **software engineering and AI**, especially how we can build reliable systems around LLMs and AI agents.
+I enjoy solving complex engineering problems, designing systems that scale, and exploring how emerging technologies can create better ways for people and software to interact.
+
+I'm particularly interested in the intersection of backend engineering, cloud infrastructure and AI, where good architecture meets practical innovation.
 
 ### What I'm into
 
@@ -15,28 +17,30 @@ These days, I'm particularly interested in the intersection of **software engine
 * 🧠 Context engineering, evaluation, and AI reliability
 * 🧪 Testing, automation, and developer tooling
 
-### Tech I work with
+### Technologies I work with
 
-- **Backend:**
-PHP · Laravel · Node.js · TypeScript · JavaScript · Symfony
+I'm comfortable working across different technologies and adapting to the needs of a problem rather than being tied to a particular language or framework.
 
-- **Frontend:**
-Vue.js · Vite · Tailwind CSS
+I also embrace AI-assisted development as part of my engineering workflow. As implementation becomes increasingly augmented by AI, I place even greater emphasis on system design, architecture, sound engineering decisions, code quality and understanding the systems being built.
 
-- **Cloud & Infrastructure:**
-AWS · GCP · Docker · GitHub Actions · Serverless
-
-- **Data & Messaging:**
-MySQL · PostgreSQL · Redis · Kafka · SQS · SNS
-
-- **AI:**
-LLMs · AI Agents · MCP · AI Integrations
+- **Languages & Backend**: PHP, JavaScript, TypeScript, Python, Laravel, Node.js
+- **Frontend**: Vue.js, Vite, TailwindCSS
+- **Cloud & Infrastructure**: AWS, GCP, Docker, Serverless, CI/CD
+- **Databases & Caching**: MySQL, PostgreSQL, Redis
+- **Messaging & Search**: Amazon SQS, Kafka, Algolia, Meilisearch
+- **Testing & Quality**: PHPUnit, PestPHP, TDD, BDD
+- **Security**: OWASP principles, OAuth, JWT, MFA
+- **AI & Integration**: LLMs, AI Agents, MCP, AI API Integration
 
 ### Currently learning
 
-I'm exploring how traditional software architecture evolves when **AI becomes an active participant in the system**.
+I'm continuously exploring the evolving landscape of software engineering, particularly:
+- Designing reliable AI-powered applications and agentic systems.
+- Building with MCP and exploring new interaction patterns between AI and existing software.
+- Improving my understanding of RAG, context engineering and AI system architecture.
+- Deepening my knowledge of cloud architecture and application security.
 
-That means going beyond prompts and looking at things like **tool architecture, context, orchestration, permissions, reliability, evaluation, and the boundaries between probabilistic AI and deterministic software.**
+I believe the future of software engineering is not just about building systems that humans interact with, but also designing systems that humans and AI can work with together.
 
 ### Find me elsewhere
 
